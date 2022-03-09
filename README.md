@@ -4,7 +4,7 @@ Student in computing sciences at Paris 8. Mostly android development, a little b
 
 * 📫 mail me : [cesar@pigeoff.pw](mailto:cesar@pigeoff.pw)
 * 📢 get a look at my blog : [blog.pigeoff.pw](https://blog.pigeoff.pw/)
-* 🐦 bitter twitter : [@16arpi](https://twitter.com/16arpi)
+* 🐦 twitter : [@16arpi](https://twitter.com/16arpi)
 
 <!--
 **16arpi/16arpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
