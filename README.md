@@ -1,6 +1,6 @@
 ### Heyyyy 👋
 
-Software developer. Mostly android development, a little bit of [rust](https://github.com/16arpi/meteo-tui) and other [weird stuff](https://github.com/16arpi?tab=repositories). Curently working on [Let's diner !](https://github.com/16arpi/Menus), a meals and groceries scheduler and [Fox RSS Reader](https://github.com/16arpi/Fox-RSS), a rss feeds and podcasts reader/player. 
+Software developer. Mostly android development, a little bit of [rust](https://github.com/16arpi/meteo-tui) and other [weird stuff](https://github.com/16arpi?tab=repositories). Curently working on projects for the [Atelier Solidaire](https://github.com/ateliersolidairesaintouen) of Saint-Ouen.
 
 * 📫 mail me : [cesar@pigeoff.pw](mailto:cesar@pigeoff.pw)
 * 📢 get a look at my blog : [blog.pigeoff.pw](https://blog.pigeoff.pw/)
