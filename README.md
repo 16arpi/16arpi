@@ -1,10 +1,6 @@
 ### Heyyyy 👋
 
-Software developer. Mostly android development, a little bit of [rust](https://github.com/16arpi/meteo-tui) and other [weird stuff](https://github.com/16arpi?tab=repositories). Curently working on projects for the [Atelier Solidaire](https://github.com/ateliersolidairesaintouen) of Saint-Ouen.
-
-* 📫 mail me : [cesar@pigeoff.pw](mailto:cesar@pigeoff.pw)
-* 📢 get a look at my blog : [blog.pigeoff.pw](https://blog.pigeoff.pw/)
-* 🐦 twitter : [@16arpi](https://twitter.com/16arpi) | mastodon : [@16arpi@piaille.fr](https://piaille.fr/@16arpi)
+Master's student in natural language processing (Paris 3, Paris 10, INALCO). I do other stuff such as android development and desktop programs. Curently working on [Let's diner !](https://github.com/16arpi/Menus) and [remorque](https://github.com/ateliersolidairesaintouen/remorque).
 
 <!--
 **16arpi/16arpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
