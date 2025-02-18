@@ -1,6 +1,6 @@
 ### Heyyyy 👋
 
-Master's student in natural language processing (Paris 3, Paris 10, INALCO). I do other stuff such as android development and desktop programs. Curently working on [Let's diner !](https://github.com/16arpi/Menus) and [remorque](https://github.com/ateliersolidairesaintouen/remorque).
+Master's student in natural language processing (Paris 3, Paris 10, INALCO). I do other stuff such as android development and desktop programs.
 
 <!--
 **16arpi/16arpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
